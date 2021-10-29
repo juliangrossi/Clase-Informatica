@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Como se dice hola en diferentes lugares
 Inglés: Hello.
 Francés: Salut (a nivel informal) / Bonjour (más formal)
@@ -6,6 +5,4 @@ Alemán: Hallo.
 Italiano: Ciao.
 Portugués: Olá
 Sueco: Hej.
-=======
 Este es el archivo
->>>>>>> 418ce53a495dbe582cb09abb7f1e378e609a34a8
